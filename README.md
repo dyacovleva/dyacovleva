@@ -2,8 +2,7 @@
 
 ### I'm QA Automation Engineer with more than four years of experience in manual and automation testing of web and mobile applications.
 
-
- #### Feel free to connect with me:
+#### Feel free to connect with me:
 
 [![Linkedin Badge](https://img.shields.io/badge/-dyacovleva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daria-yacovleva/)](https://www.linkedin.com/in/dyacovleva/)
 [![Gmail Badge](https://img.shields.io/badge/-iacovlevadasha@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:iacovlevadasha@gmail.com)](mailto:iacovlevadasha@gmail.com)
@@ -26,4 +25,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown" alt="Markdown" width="55"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="Apple" alt="Apple" width="55"/>&nbsp;   
   <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg" title="Android" alt="Android" width="55"/>&nbsp;   
-  <img src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original-wordmark.svg" title="Atom" alt="Atom" width="55"/>&nbsp;                         <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" title="XCode" alt="XCode" width="55"/>&nbsp;                               <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" alt="VSCode" width="55"/>&nbsp;                 <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg" title="PyCharm" alt="PyCharm" width="55"/>&nbsp;             <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="55"/>&nbsp;   
+  <img src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original-wordmark.svg" title="Atom" alt="Atom" width="55"/>&nbsp;                         <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" title="XCode" alt="XCode" width="55"/>&nbsp;                               <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" alt="VSCode" width="55"/>&nbsp;                 <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg" title="PyCharm" alt="PyCharm" width="55"/>&nbsp;             <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="55"/>&nbsp; 
+  
+  
+  
+<img src=https://media.giphy.com/media/PmAjqmm4beKervYzFr/giphy.gif width="900" height="600" >
